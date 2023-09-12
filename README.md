@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
+  
+<h1><b>Hello! Moi c'est Valentin, étudiant en 2e année de BUT Informatique 👩‍💻👨‍🎓</b></h1>
+<h2><i>Retrouvez ici mes projets, qu'ils soient perso ou professionnels</i></h2>
 
-<!--
-**valuthringer/valuthringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<div>
+<h2>Langages utilisés :</h2>
+  <ul>
+    <li>HTML5</li>
+    <li>CSS</li>
+    <li>PHP</li>
+    <li>SQL</li>
+    <li>Python</li>
+    <li>Java</li>
+    <li>Javascript</li>
+  </ul>
+</div>
