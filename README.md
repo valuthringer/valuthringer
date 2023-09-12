@@ -1,6 +1,6 @@
 <div align="center">
   
-<h1><b>Hello! Moi c'est Valentin, étudiant en 2e année de BUT Informatique 👩‍💻👨‍🎓</b></h1>
+<h1><b>Salut! Moi c'est Valentin, étudiant en 2e année de BUT Informatique 👩‍💻👨‍🎓</b></h1>
 <h2><i>Retrouvez ici mes projets, qu'ils soient perso ou professionnels</i></h2>
 
 </div>
