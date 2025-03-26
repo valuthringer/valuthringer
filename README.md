@@ -12,6 +12,8 @@
 
 ## 🔥 GitHub Stats
 <div align="center">
+### 📊 **Statistiques d'utilisation**
+![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=valuthringer&layout=compact&theme=radical)
 
 ### 🎯 **Langages les plus utilisés**
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=valuthringer&layout=compact&theme=radical)
