@@ -13,11 +13,11 @@
 ## 🔥 GitHub Stats
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valuthringer&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valuthringer&theme=vision_friendly_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valuthringer&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=valuthringer&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=valuthringer&theme=vision_friendly_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valuthringer&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valuthringer&theme=transparent) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valuthringer&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=valuthringer&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=valuthringer&theme=transparent&utcOffset=8)
 
 </div>
 
