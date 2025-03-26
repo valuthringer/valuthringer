@@ -12,8 +12,6 @@
 
 ## 🔥 GitHub Stats
 <div align="center">
-  
-[![](https://komarev.com/ghpvc/?username=valuthringer&color=blue)](#)
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valuthringer&theme=tokyonight)](#)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valuthringer&theme=tokyonight)](#)
@@ -169,3 +167,7 @@
 📂 [Portfolio](https://valuthringer.github.io)  
 
 💡 _Toujours à la recherche de nouvelles opportunités et collaborations !_ 🚀
+
+---
+
+[![](https://komarev.com/ghpvc/?username=valuthringer&color=blue)](#)
