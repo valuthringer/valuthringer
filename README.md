@@ -131,10 +131,13 @@
 
 ### **🎧 Sound**
 [![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)](#)
+[![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=logo&logo=Adobe%20Audition&logoColor=white)](#)
+[![VirtualDJ](https://img.shields.io/badge/VirtualDJ-FF0000?logo=virtualdj&logoColor=white)](#)
+[![RadioDJ](https://img.shields.io/badge/RadioDJ-1E90FF?logo=radiodj&logoColor=white)](#)
 [![Soundcloud](https://img.shields.io/badge/Soundcloud-FF3300?logo=Soundcloud&logoColor=white)](#)
 [![Tidal](https://img.shields.io/badge/Tidal-000000?logo=Tidal&logoColor=white)](#)
 [![Deezer](https://img.shields.io/badge/Deezer-9400D3?logo=Deezer&logoColor=white)](#)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=logo&logo=spotify&logoColor=white)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=logo&logo=spotify&logoColor=white)](#)
 
 </div>
 
