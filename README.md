@@ -58,6 +58,10 @@
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
+### 🥅 **Other Softwares**
+[![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-%23049fd9.svg?style=logo&logo=cisco&logoColor=black)](#)
+[![SonarQube](https://img.shields.io/badge/SonarQube-black?style=logo&logo=sonarqube&logoColor=4E9BCD)](#)
+
 ### 🌐 **Browser**
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)
@@ -85,6 +89,8 @@
 [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)
 [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
 [![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](#)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23FA0F00.svg?logo=jupyter&logoColor=white)](#)
+[![Spyder](https://img.shields.io/badge/Spyder-838485?style=logo&logo=spyder%20ide&logoColor=maroon)](#)
 
 ### 📊 **Data Science**
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
@@ -103,6 +109,7 @@
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=MicrosoftExcel&logoColor=fff)](#)
 [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=MicrosoftPowerPoint&logoColor=fff)](#)
 [![Microsoft SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?logo=MicrosoftSharePoint&logoColor=fff)](#)
+[![Latex](https://img.shields.io/badge/Latex-%23008080.svg?style=logo&logo=latex&logoColor=white)](#)
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
 
@@ -112,11 +119,22 @@
 [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=logo&logo=github-copilot&logoColor=white)](#)
 
-### **Gaming**
+### 🎮 **Gaming**
 [![PlayStation 2](https://img.shields.io/badge/Playstation%202-003791?logo=playstation-2&logoColor=white)](#)
 [![PlayStation 4](https://img.shields.io/badge/Playstation%204-003791?logo=playstation-4&logoColor=white)](#)
 [![PlayStation 4](https://img.shields.io/badge/Playstation%205-003791?logo=playstation-5&logoColor=white)](#)
 [![Wii](https://img.shields.io/badge/Wii-8B8B8B?logo=wii&logoColor=white)](#)
+
+### 📺 **Streaming**
+[![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#)
+[![Jellyfin](https://img.shields.io/badge/Jellyfin-%23000B25.svg?style=logo&logo=Jellyfin&logoColor=00A4DC)](#)
+
+### **🎧 Sound**
+[![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)](#)
+[![Soundcloud](https://img.shields.io/badge/Soundcloud-FF3300?logo=Soundcloud&logoColor=white)](#)
+[![Tidal](https://img.shields.io/badge/Tidal-000000?logo=Tidal&logoColor=white)](#)
+[![Deezer](https://img.shields.io/badge/Deezer-9400D3?logo=Deezer&logoColor=white)](#)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=logo&logo=spotify&logoColor=white)
 
 </div>
 
