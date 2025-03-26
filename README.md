@@ -14,7 +14,7 @@
 <div align="center">
   
 ### 📊 **Statistiques d'utilisation**
-![Top](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valuthringer&theme=radical)
+![Top](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valuthringer&layout=compact&theme=radical)
 
 ### 🎯 **Langages les plus utilisés**
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=valuthringer&layout=compact&theme=radical)
