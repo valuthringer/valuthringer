@@ -63,7 +63,7 @@
 [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
 [![Deluge](https://img.shields.io/badge/-Deluge-094491?style=flat&logo=deluge&logoColor=white)](#)
 
-### 🖥️ **Versionning & Collaborative Tools**  
+### 🖥️ **Versioning & Collaborative Tools**  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
