@@ -23,6 +23,16 @@
 
 ---
 
+
+## ⚡ Companies
+<div align="center">
+
+[![HTML](https://img.shields.io/badge/-Schneider%20Electric-3DCD58?style=flat&logo=schneiderelectric&logoColor=white)](#)
+
+</div>
+
+---
+
 ## 🛠️ Langages & Technologies :
 <div align="center">
 
@@ -49,7 +59,9 @@
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
+[![XAML](https://img.shields.io/badge/-XAML-0C54C2?style=flat&logo=xaml&logoColor=white)](#)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
+[![Deluge](https://img.shields.io/badge/-Deluge-094491?style=flat&logo=deluge&logoColor=white)](#)
 
 ### 🖥️ **Versionning & Collaborative Tools**  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
@@ -75,10 +87,21 @@
 ### 🥅 **Other Softwares**
 [![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-%23049fd9.svg?style=logo&logo=cisco&logoColor=black)](#)
 [![SonarQube](https://img.shields.io/badge/SonarQube-black?style=logo&logo=sonarqube&logoColor=4E9BCD)](#)
+[![7zip](https://img.shields.io/badge/-7Zip-000000?style=flat&logo=7zip&logoColor=white)](#)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](#)
+[![Nginx Proxy](https://img.shields.io/badge/-Nginx%20Proxy%20Manager-F15833?style=flat&logo=nginxproxymanager&logoColor=white)](#)
+[![VBOX](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)](#)
+[![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)](#)
+[![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white)](#)
+[![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white)](#)
+[![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)](#)
+[![Ublock](https://img.shields.io/badge/-uBlock%20Origin-800000?style=flat&logo=ublockorigin&logoColor=white)](#)
+[![AnyDesk](https://img.shields.io/badge/-AnyDesk-EF443B?style=flat&logo=anydesk&logoColor=white)](#)
 
 ### 🌐 **Browser**
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)
+[![Google Chrome](https://img.shields.io/badge/-Microsoft%20Edge-0078D7?style=flat&logo=microsoftedge&logoColor=white)](#)
 
 ### ☁️ **Cloud System**
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
@@ -86,6 +109,7 @@
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 [![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?logo=OneDrive&logoColor=white)](#)
+[![NordVPN](https://img.shields.io/badge/-NordVPN-4687FF?logo=nordvpn&logoColor=white)](#)
 
 ### 💻 **Code Editor**
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
@@ -107,6 +131,15 @@
 [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=logo&logo=github-copilot&logoColor=white)](#)
 
+### 👨‍💻 **Manufacturer**
+[![Dell](https://img.shields.io/badge/-Dell-007DB8?logo=dell&logoColor=white)](#)
+[![HP](https://img.shields.io/badge/-HP-0096D6?logo=hp&logoColor=white)](#)
+[![Lenovo](https://img.shields.io/badge/-Lenovo-E2231A?logo=lenovo&logoColor=white)](#)
+[![MSI](https://img.shields.io/badge/-MSI-FF0000?style=flat&logo=msi&logoColor=white)](#)
+[![AMD](https://img.shields.io/badge/-AMD-ED1C24?style=flat&logo=amd&logoColor=white)](#)
+[![Intel](https://img.shields.io/badge/-Intel-0071C5?style=flat&logo=intel&logoColor=white)](#)
+[![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)](#)
+
 </div>
 
 ## ✈️ Various :
@@ -114,6 +147,7 @@
 
 ### ✏️ **Blog / Social**
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
+[![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat&logo=elementor&logoColor=white)](#)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
@@ -137,12 +171,17 @@
 [![Latex](https://img.shields.io/badge/Latex-%23008080.svg?style=logo&logo=latex&logoColor=white)](#)
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
+[![OpenOffice](https://img.shields.io/badge/-Apache%20OpenOffice-0E85CD?logo=apacheopenoffice&logoColor=white)](#)
+[![LibreOffice](https://img.shields.io/badge/-LibreOffice-18A303?logo=libreoffice&logoColor=white)](#)
 
 ### 🎮 **Gaming**
+[![PlayStation](https://img.shields.io/badge/-PlayStation-003791?style=flat&logo=playstation&logoColor=white)](#)
 [![PlayStation 2](https://img.shields.io/badge/Playstation%202-003791?logo=playstation-2&logoColor=white)](#)
 [![PlayStation 4](https://img.shields.io/badge/Playstation%204-003791?logo=playstation-4&logoColor=white)](#)
 [![PlayStation 4](https://img.shields.io/badge/Playstation%205-003791?logo=playstation-5&logoColor=white)](#)
 [![Wii](https://img.shields.io/badge/Wii-8B8B8B?logo=wii&logoColor=white)](#)
+[![3DS](https://img.shields.io/badge/-Nintendo%203DS-D12228?style=flat&logo=nintendo3ds&logoColor=white)](#)
+[![Rockstar](https://img.shields.io/badge/-Rockstar%20Games-FCAF17?style=flat&logo=rockstargames&logoColor=white)](#)
 
 ### 📺 **Streaming**
 [![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#)
@@ -152,11 +191,17 @@
 [![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)](#)
 [![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=logo&logo=Adobe%20Audition&logoColor=white)](#)
 [![VirtualDJ](https://img.shields.io/badge/VirtualDJ-FF0000?logo=virtualdj&logoColor=white)](#)
+[![PioneerDJ](https://img.shields.io/badge/-Pioneer%20DJ-1A1928?logo=pioneerdj&logoColor=white)](#)
 [![RadioDJ](https://img.shields.io/badge/RadioDJ-1E90FF?logo=radiodj&logoColor=white)](#)
+[![Discogs](https://img.shields.io/badge/-Discogs-333333?logo=discogs&logoColor=white")](#)
 [![Soundcloud](https://img.shields.io/badge/Soundcloud-FF3300?logo=Soundcloud&logoColor=white)](#)
 [![Tidal](https://img.shields.io/badge/Tidal-000000?logo=Tidal&logoColor=white)](#)
 [![Deezer](https://img.shields.io/badge/Deezer-9400D3?logo=Deezer&logoColor=white)](#)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=logo&logo=spotify&logoColor=white)](#)
+[![iHeartRadio](https://img.shields.io/badge/-iHeartRadio-C6002B?style=flat&logo=iheartradio&logoColor=white)](#)
+[![Mixcloud](https://img.shields.io/badge/-Mixcloud-5000FF?style=flat&logo=mixcloud&logoColor=white)](#)
+[![VLC](https://img.shields.io/badge/-VLC%20media%20player-FF8800?style=flat&logo=vlcmediaplayer&logoColor=white)](#)
+[![Denon](https://img.shields.io/badge/-Denon-0B131A?style=flat&logo=denon&logoColor=white)](#)
+[![Hearthis](https://img.shields.io/badge/-hearthis.at-000000?style=flat&logo=hearthisdotat&logoColor=white)](#)
 
 </div>
 
