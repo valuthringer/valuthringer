@@ -10,6 +10,19 @@
 
 ---
 
+## 🔥 GitHub Stats
+<div align="center">
+
+### 🎯 **Langages les plus utilisés**
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=valuthringer&layout=compact&theme=radical)
+
+### 🏆 **Trophées GitHub**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=valuthringer&theme=radical)
+
+</div>
+
+---
+
 ## 🛠️ Langages & Technologies :
 <div align="center">
 
@@ -145,7 +158,6 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=logo&logo=spotify&logoColor=white)](#)
 
 </div>
-
 
 ---
 
