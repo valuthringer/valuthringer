@@ -131,7 +131,7 @@
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-0078D4?logo=Photoshop&logoColor=white)](#)
 
 ### 📄 **Documentation & Office**
-[![Microsoft Word](https://img.shields.io/badge/Microsoft_Office-D83B01?style=logo&logo=microsoft-office&logoColor=white)](#)
+[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=logo&logo=microsoft-office&logoColor=white)](#)
 [![Latex](https://img.shields.io/badge/Latex-%23008080.svg?style=logo&logo=latex&logoColor=white)](#)
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
