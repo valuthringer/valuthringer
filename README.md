@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Salut, moi c'est **Valentin**  
-🎓 Étudiant en **3e année de BUT Informatique**  
+🎓 Étudiant en **Master informatique à l'Université Côte d'Azur**  
 💻 Passionné par le **développement & l'innovation**  
 
 ### 🔍 Retrouvez ici mes projets, qu'ils soient **persos** ou **professionnels** 🚀  
