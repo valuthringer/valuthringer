@@ -73,11 +73,11 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 
-### 🖼️ **Frameworks** 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+### 🖼️ **Frameworks and execution environment ** 
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
 ### 🥅 **Other Softwares**
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-%23049fd9.svg?style=logo&logo=cisco&logoColor=black)](#)
 [![SonarQube](https://img.shields.io/badge/SonarQube-black?style=logo&logo=sonarqube&logoColor=4E9BCD)](#)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](#)
