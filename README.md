@@ -73,7 +73,7 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 
-### 🖼️ **Frameworks and execution environment ** 
+### 🖼️ **Frameworks and execution environment** 
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
 ### 🥅 **Other Softwares**
